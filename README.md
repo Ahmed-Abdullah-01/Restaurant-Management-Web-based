@@ -59,5 +59,5 @@
 </div>
 
 <div class="footer">
-    <p>© 2024 Restaurant Management System | 4th Semester Database Project</p>
+    <p>© 2025 Restaurant Management System | 4th Semester Database Project</p>
 </div>
